@@ -1,6 +1,6 @@
 # React Controlled Components Lab
 
-## Overview
+## Overview 
 
 In this lab, you'll write and use controlled components, and write
 validation for form components.
